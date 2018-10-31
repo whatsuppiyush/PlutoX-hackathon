@@ -4,3 +4,5 @@ pluto-x application videos- https://www.youtube.com/playlist?list=PLmchdkS6advFf
 
 pluto-x application site - https://hackaday.io/project/160421-object-tracking-with-a-plutox-drone
 (see this user profile and their friends projects on hackaday using pluto-x)
+
+pluto-x with ros https://github.com/lakshyapriyadarshi/chaser-drone and video on https://www.youtube.com/watch?v=0mkvEO9O9v8
