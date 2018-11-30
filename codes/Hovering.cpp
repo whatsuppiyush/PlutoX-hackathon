@@ -19,8 +19,8 @@ void onPilotStart()
 {
   // do your one time stuffs here
 	Control.disableFlightStatus(true);
-	Althold.activateAlthold(true);
-		Control.arm();
+	Althold.activateAlthold(true); //Activating altitude hold
+		Control.arm(); //Arming the controls
 
 }
 
@@ -29,8 +29,7 @@ bool flag=true;
 // The loop function is called in an endless loop
 void plutoPilot()
 {
-	Althold.activateAlthold(true);
-	//Control.arm();
+	Althold.activateAlthold(true); //Activating altitude hold again because there is fluctuion in height so asking to hold its current altitude
 //Add your repeated code here
 	if(Control.isArmed()==true && flag==true )
 	{
