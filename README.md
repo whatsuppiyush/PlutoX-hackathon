@@ -18,7 +18,7 @@ PlutoX Basic Tutorial: https://youtu.be/e8feMM1Cjco </h>
 
 
 Pluto x in Github
-1.  https://github.com/simmubhangu/pluto_drone
+1. https://github.com/simmubhangu/pluto_drone
 2. https://github.com/lakshyapriyadarshi/chaser-drone
 3. https://github.com/fayyazpocker/pluto_drone
 4. https://github.com/eYSIP-2018/Flying-Sensor-Node
